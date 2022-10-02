@@ -15,5 +15,3 @@
 ## Result
 
 - Root Mean Square Error(RMSE) value of model is 61.3257.
-
-
